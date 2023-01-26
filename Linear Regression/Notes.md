@@ -73,7 +73,7 @@ Gradient descent is used to optimize the cost function by getting to the lowest 
 
 It is derived by the formula
 
-![Gradient Descent formula](https://github.com/RanganMahesh/Machine-Learning/blob/main/Gradient%20Descent%20forumla.png)
+![Gradient Descent formula](https://github.com/RanganMahesh/Machine-Learning/blob/main/Linear%20Regression/Gradient%20Descent%20forumla.png)
 
 Where:
 
