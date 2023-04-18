@@ -1,0 +1,26 @@
+Contains Notes on Statistics which includes
+- Types of data & Central tendency
+- Measure of Variability
+- Standard Deviation
+- Probability
+- Baye's Theoram
+- Naive Bayes with example
+- Discrete and Continous Random variable
+- Probability Distribution & Density function with example
+- CDF
+- Joint Probability Distribution
+- Bernoulli Distribution
+- Binomial Distribution
+- Poisson Distribution
+- Normal Distribution
+- Normal approximation to Binomial
+- Sampling & Sampling Techniques
+- Central LImit theoram
+- Sampling Proportion
+- Confidence Interval
+- Hypothesis testing (one mean, two mean, one proportion, two proportion, t-test)
+- T-test
+- Chi-square test
+- F-test
+- Correlation analysis (covariance & correlation coeffcient)
+- Regression analysis
